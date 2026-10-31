@@ -1,4 +1,4 @@
-# Hi there, I'm Saif Alshoubaki 👋
+# Hi there, I'm Saif Alshoubaki 
 
 🎓 **Undergraduate Computer Science Student** | Specializing in **Data Analytics**  
 💼 Actively seeking **Data Analytics Internship** opportunities  
